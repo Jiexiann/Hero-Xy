@@ -10,7 +10,7 @@ vless 性能更加优秀，占用资源更少。
 
 ### 服务端
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/zhuyijiexian/Heroku--Xray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/zhuyijiexian/Hero-Xy) 
 
 
  
